@@ -7,7 +7,7 @@
 
 <br>
 
-![Santiago Devotech Github's banner](santidevotechgbBanner2.png)
+![Santiago Devotech Github's banner](assets/santidevotechgbBanner2.png)
 
 
 |           My social networks :coffee:           |
@@ -27,7 +27,48 @@ Hi! My name is Santiago Pereira, I'm from Uruguay and I'm in the process to beco
 
 </div>
 
-<hr>
+<br>
+
+<div align="center">
+  
+  <h2>
+    Technologies
+  </h2>
+
+</div>
+
+<!--<div style="display: flex; justify-content: space-around;">
+
+<div display: inline-block style="margin-left: 10px;">
+  
+| Code Editors |
+|----------|
+| ![image](https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/1c774ab0-6af3-4c90-be79-ffa5cffe860d)
+</a>|
+![image](https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/e3bdda93-b6b5-46d9-b825-45eec695c135)
+</p>
+  
+</div>
+
+<div style="margin-right: 10px;">
+  
+| Languages |
+|----------|
+| <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/f79a1b31-ff3c-44a8-a629-5cf6a536891c" alt="Java logo" style="display:block; margin-left:auto; margin-right:auto;" />|
+| <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/24cd1e91-6568-40ad-bbaf-3eba0c574d06" alt="HTML5 logo" style="display:block; margin-left:auto; margin-right:auto;" />|
+
+</div>
+
+<div>
+  
+| Version Control |
+|----------|
+| <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/ce8dd1d8-a5e2-4612-85fe-1cdc67666570" alt="GIT logo" style="display: block; margin-left: auto; margin-right: auto; width: 120px;" />
+
+</div> -->
+
+
+<br>
 
 <div>
   <h2 align="center">
