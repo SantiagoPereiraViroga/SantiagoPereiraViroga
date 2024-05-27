@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=de7e30&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+Santiago's+README.md;I'm+a+Java+BackEnd+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ab7a5a&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+Santiago's+README.md;I'm+a+Java+BackEnd+Student)](https://git.io/typing-svg)
 
 <!--Font colours for my SVG Header-->
 <!--de7e30 b96226 c05f1c cb9065-->
@@ -37,36 +37,36 @@ Hi! My name is Santiago Pereira, I'm from Uruguay and I'm in the process to beco
 
 </div>
 
-<!--<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
 
-<div display: inline-block style="margin-left: 10px;">
+<div style="display: inline-block; margin: 10px;">
   
-| Code Editors |
-|----------|
-| ![image](https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/1c774ab0-6af3-4c90-be79-ffa5cffe860d)
-</a>|
+### Code Editors 
+![image](https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/1c774ab0-6af3-4c90-be79-ffa5cffe860d)
+</a>
 ![image](https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/e3bdda93-b6b5-46d9-b825-45eec695c135)
 </p>
   
 </div>
 
-<div style="margin-right: 10px;">
+<div style="display: inline-block; margin: 10px;">
   
-| Languages |
-|----------|
-| <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/f79a1b31-ff3c-44a8-a629-5cf6a536891c" alt="Java logo" style="display:block; margin-left:auto; margin-right:auto;" />|
-| <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/24cd1e91-6568-40ad-bbaf-3eba0c574d06" alt="HTML5 logo" style="display:block; margin-left:auto; margin-right:auto;" />|
+### Languages 
+
+ <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/f79a1b31-ff3c-44a8-a629-5cf6a536891c" alt="Java logo" style="display:block; margin-left:auto; margin-right:auto;" />
+<img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/24cd1e91-6568-40ad-bbaf-3eba0c574d06" alt="HTML5 logo" style="display:block; margin-left:auto; margin-right:auto;" />
 
 </div>
 
-<div>
+<div style="display: inline-block; margin: 10px;">
   
-| Version Control |
-|----------|
-| <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/ce8dd1d8-a5e2-4612-85fe-1cdc67666570" alt="GIT logo" style="display: block; margin-left: auto; margin-right: auto; width: 120px;" />
+### Version Control 
+<img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/ce8dd1d8-a5e2-4612-85fe-1cdc67666570" alt="GIT logo" style="display: block; margin-left: auto; margin-right: auto; width: 120px;" /> <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/76bce4d8-43ab-4218-a676-00d4a3527e13" alt="Github logo" width="120px" />
 
-</div> -->
 
+</div>
+
+</div>
 
 <br>
 
