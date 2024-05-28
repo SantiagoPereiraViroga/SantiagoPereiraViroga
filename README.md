@@ -7,7 +7,7 @@
   ![Santiago Devotech Github's banner](assets/santidevotechgbBanner4.jpg)
   
   <p align="center">
-    Hi! My name is Santiago Pereira, I'm from Uruguay and I'm in the process to become a Java BackEnd Developer.
+    Hello! My name is Santiago Pereira, I'm from Uruguay and I'm in the process to become a Java BackEnd Developer.
   </p>  
   
   </div>
