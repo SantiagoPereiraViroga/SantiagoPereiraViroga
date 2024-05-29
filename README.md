@@ -19,21 +19,30 @@
   <br>
 </div>
 
-<!--<div>
+<div>
   <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/blob/main/assets/santidevotechgbsmallsideimage.png?raw=true" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
-</div>-->
+</div>
 
-### Code Editors
-<img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/1c774ab0-6af3-4c90-be79-ffa5cffe860d" alt="VSCode logo" style="display:block; margin-left:auto; margin-right:auto;" />
-<img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/e3bdda93-b6b5-46d9-b825-45eec695c135" alt="IntelliJIDEA logo" style="display:block; margin-left:auto; margin-right:auto;" />
+<div style="display: inline-block; width: 100px;">
+  
+  ### Code Editors
+  <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/1c774ab0-6af3-4c90-be79-ffa5cffe860d" alt="VSCode logo;" />
+  <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/e3bdda93-b6b5-46d9-b825-45eec695c135" alt="IntelliJIDEA logo;" />
+</div>  
 
-### Languages
-<img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/f79a1b31-ff3c-44a8-a629-5cf6a536891c" alt="Java logo" style="display:block; margin-left:auto; margin-right:auto;" />
-<img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/24cd1e91-6568-40ad-bbaf-3eba0c574d06" alt="HTML5 logo" style="display:block; margin-left:auto; margin-right:auto;" />
+<div style="display: inline-block; width: 100px;">
+  
+  ### Languages
+  <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/f79a1b31-ff3c-44a8-a629-5cf6a536891c" alt="Java logo;" />
+  <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/24cd1e91-6568-40ad-bbaf-3eba0c574d06" alt="HTML5 logo;" />
+</div>
 
-### Version Control
-<img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/ce8dd1d8-a5e2-4612-85fe-1cdc67666570" alt="GIT logo" style="display: block; margin-left: auto; margin-right: auto; width: 100px;" />
-<img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/76bce4d8-43ab-4218-a676-00d4a3527e13" alt="Github logo" style="display: block; margin-left: auto; margin-right: auto; width: 100px;" />
+<div style="display: inline-block; width: 100px;">
+  
+  ### Version Control
+  <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/ce8dd1d8-a5e2-4612-85fe-1cdc67666570" alt="GIT logo;" />
+  <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/76bce4d8-43ab-4218-a676-00d4a3527e13" alt="Github logo;" />
+</div>
 
 <br><br><br>
 
