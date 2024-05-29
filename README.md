@@ -19,9 +19,9 @@
   <br>
 </div>
 
-<div>
+<!--<div>
   <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/blob/main/assets/santidevotechgbsmallsideimage.png?raw=true" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
-</div>
+</div>-->
 
 ### Code Editors
 <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/assets/168778876/1c774ab0-6af3-4c90-be79-ffa5cffe860d" alt="VSCode logo" style="display:block; margin-left:auto; margin-right:auto;" />
