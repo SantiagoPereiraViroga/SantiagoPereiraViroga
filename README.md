@@ -19,9 +19,9 @@
   <br>
 </div>
 
-<div>
-  <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/blob/main/assets/santidevotechgbsmallsideimage.png?raw=true" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
-</div>
+<!--<div>
+  <img src="https://github.com/SantiagoPereiraViroga/SantiagoPereiraViroga/blob/main/assets/santidevotechgbsmallsideimage.png?raw=true" min-width="400px" max-width="400px" width="300px" align="right" alt="Me in progress">
+</div>-->
 
 <div style="display: inline-block; width: 100px;">
   
